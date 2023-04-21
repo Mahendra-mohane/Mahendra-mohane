@@ -1,4 +1,6 @@
-## <h1 align="center">Hi 👋, I'm Mahendra Mohane</h1>
+
+<div align="center">
+ ## <h1 align="center">Hi 👋, I'm Mahendra Mohane</h1>
  <h3 align="center">Full-Stack web developer with a focus on Node.js.Proficient to use JavaScript, HTML, CSS, and libraries- Express,MongDB.</h3>
  <img align ="right" alt="coding width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
   
@@ -32,3 +34,8 @@
 [![](https://visitcount.itsvg.in/api?id=Mahendra-mohane&icon=0&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+</div>
