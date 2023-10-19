@@ -1,4 +1,3 @@
-
 <div align="center">
  <h1 align="center">Hi 👋, I'm Mahendra Mohane</h1>
  <h3 align="center">Full-Stack web developer with a focus on Node.js.Proficient to use JavaScript, HTML, CSS, and libraries such as Express,MongDB.</h3>
