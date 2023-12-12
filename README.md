@@ -13,11 +13,11 @@ innovative web solutions.
   
 - 🌱 I’m currently learning **Full Stack Web Development (Full Time-Masai School)**
 
-- 👨‍💻 All of my projects are available at [https://mahendra-mohane.github.io/](https://mahendra-mohane.github.io/)
+- 👨‍💻 All of my projects are available at **PORTFOLIO( [https://mahendra-mohane.github.io/](https://mahendra-mohane.github.io/) )**
 
 - 📫 How to reach me **itsmahendramohane11@gmail.com**
 
-- 📄 Resume [https://drive.google.com/file/d/1Ip31V7-JF5HUtH8gNhIcumlFHnE9YPhQ/view?usp=share_link](https://drive.google.com/file/d/1Ip31V7-JF5HUtH8gNhIcumlFHnE9YPhQ/view?usp=share_link)
+- 📄 Resume [https://drive.google.com/file/d/1o3KTnZwOaZ5AlZ8wBkKBqifjuFuMgyoy/view?usp=sharing](https://drive.google.com/file/d/1o3KTnZwOaZ5AlZ8wBkKBqifjuFuMgyoy/view?usp=sharing)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahendra-mohane/)  
