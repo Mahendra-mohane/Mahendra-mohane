@@ -1,6 +1,13 @@
 <div align="center">
  <h1 align="center">Hi 👋, I'm Mahendra Mohane</h1>
- <h3 align="center">Full-Stack web developer with a focus on Node.js.Proficient to use JavaScript, HTML, CSS, and libraries such as Express,MongDB.</h3>
+ <h3 align="center">Versatile full-stack web developer specializing in Node.js
+with proficiency in JavaScript, HTML, CSS, and MySQL.
+Experienced in prompt engineering, utilizing libraries like
+Express and MongoDB. Skilled in incorporating GenAI for
+advanced capabilities. A collaborative problem solver with
+a detail-oriented approach, delivering efficient and
+innovative web solutions.
+</h3>
  <img align ="center" alt="coding width="200" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
   
   
